@@ -1,6 +1,6 @@
 # WMS
 基于SSM框架的仓库管理系统
-
+https://github.com/KEN-LJQ/WMS
 
 
 ## 功能
